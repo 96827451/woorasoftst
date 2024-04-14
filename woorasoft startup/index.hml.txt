@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>woorasoft</title>
+    <link rel="stylesheet" href="sitewoora.css">
+</head>
+<body>
+   
+    <header>
+        <h1>startup woorasoft</h1>
+        
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="formations.html">Formations</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="accueil">
+            <h2>startup woorasoft</h2>
+            
+            
+        </section>
+        <section>
+         
+        </section>
+    </main>
+
+    <footer>
+        <p> *accessibilité aux personnes en situation de handicape : merci de prendre contact avec nous afin que, nous puission examiner la possibilité et les conditions d'intégration </p>
+    <p>NOS FORMATIONS</p>
+    <p>plan du site <br>acceuil<br><br><br>initiation à l'outil INFORMATIQUE et internet <br>FABRICATION NUMERIQUE<br>DEVELOPEMENT d'APPLICATION et EXPLOITATION des ia</p>
+    <p>tel: +228 91110529 <b><a href=" mail to: woorafab@gmail.com">woorafab@gmail.com</a></p>
+        <p>localisaion djidjole lome, togo</p>
+        <p><br><br><br><br></p>
+        <p>copyright woorasoft, toute reproduction interdit</p>
+    </footer>
+</body>
+</html>
